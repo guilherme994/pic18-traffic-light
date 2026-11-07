@@ -1,0 +1,22 @@
+# Saída de compilação
+build/
+dist/
+debug/
+*.o
+*.d
+*.hex
+*.elf
+*.cof
+*.map
+*.lst
+
+# Gerados pelo MPLAB X
+nbproject/private/
+nbproject/Makefile-*
+nbproject/Package-*.bash
+
+# Lixo de editor/SO
+~$*
+*.bak
+.DS_Store
+Thumbs.db
