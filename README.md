@@ -25,7 +25,7 @@ Tabela de componentes utilizado na montagem.
 \## Diagrama esquemático
 
 !\[Diagrama esquemático](./midia/diagrama\_esquematico.svg)
-<img src="./midia/diagrama\_esquematico.svg">
+<img src="./midia/diagrama_esquematico.svg">
 
 ### Em construção...
 
